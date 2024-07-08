@@ -1,10 +1,10 @@
 .banner{
-    background-image: url(https://wallpaperaccess.com/full/2703652.png);
     background-size: cover;
     height: 448px;
     color: white;
     
 }
+
 .content{
     padding-top: 140px;
     height: 190px; 
@@ -45,6 +45,6 @@ button:hover{
 }
 .fade-bottom{
     height: 7.4rem;
-    background: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+    background: linear-gradient(180deg,transparent,rgba(20, 18, 18, 0.61),#111);
 
 }
